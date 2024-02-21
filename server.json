@@ -1,324 +1,433 @@
 {
-    "tags": [
-        {
-            "title": "react",
-            "amountOfVideos": 152
-        },
-        {
-            "title": "angular",
-            "amountOfVideos": 85
-        },
-        {
-            "title": "vue",
-            "amountOfVideos": 110
-        },
-        {
-            "title": "flutter",
-            "amountOfVideos": 97
-        },
-        {
-            "title": "django",
-            "amountOfVideos": 120
-        },
-        {
-            "title": "flask",
-            "amountOfVideos": 68
-        },
-        {
-            "title": "express",
-            "amountOfVideos": 93
-        },
-        {
-            "title": "node.js",
-            "amountOfVideos": 180
-        },
-        {
-            "title": "mongodb",
-            "amountOfVideos": 135
-        },
-        {
-            "title": "postgresql",
-            "amountOfVideos": 77
-        },
-        {
-            "title": "mysql",
-            "amountOfVideos": 88
-        },
-        {
-            "title": "graphql",
-            "amountOfVideos": 102
-        },
-        {
-            "title": "apollo",
-            "amountOfVideos": 59
-        },
-        {
-            "title": "redux",
-            "amountOfVideos": 125
-        },
-        {
-            "title": "mobx",
-            "amountOfVideos": 72
-        },
-        {
-            "title": "next.js",
-            "amountOfVideos": 142
-        },
-        {
-            "title": "nuxt.js",
-            "amountOfVideos": 96
-        },
-        {
-            "title": "svelte",
-            "amountOfVideos": 81
-        },
-        {
-            "title": "jest",
-            "amountOfVideos": 110
-        },
-        {
-            "title": "mocha",
-            "amountOfVideos": 65
-        },
-        {
-            "title": "chai",
-            "amountOfVideos": 57
-        },
-        {
-            "title": "cypress",
-            "amountOfVideos": 90
-        },
-        {
-            "title": "storybook",
-            "amountOfVideos": 75
-        },
-        {
-            "title": "webpack",
-            "amountOfVideos": 115
-        },
-        {
-            "title": "babel",
-            "amountOfVideos": 69
-        },
-        {
-            "title": "typescript",
-            "amountOfVideos": 145
-        },
-        {
-            "title": "javascript",
-            "amountOfVideos": 200
-        },
-        {
-            "title": "html",
-            "amountOfVideos": 175
-        },
-        {
-            "title": "css",
-            "amountOfVideos": 190
-        },
-        {
-            "title": "sass",
-            "amountOfVideos": 80
-        },
-        {
-            "title": "less",
-            "amountOfVideos": 63
-        },
-        {
-            "title": "bootstrap",
-            "amountOfVideos": 105
-        },
-        {
-            "title": "tailwindcss",
-            "amountOfVideos": 55
-        },
-        {
-            "title": "material-ui",
-            "amountOfVideos": 95
-        },
-        {
-            "title": "ant design",
-            "amountOfVideos": 72
-        },
-        {
-            "title": "styled-components",
-            "amountOfVideos": 120
-        },
-        {
-            "title": "emotion",
-            "amountOfVideos": 68
-        },
-        {
-            "title": "jquery",
-            "amountOfVideos": 110
-        },
-        {
-            "title": "react-native",
-            "amountOfVideos": 160
-        },
-        {
-            "title": "ionic",
-            "amountOfVideos": 87
-        },
-        {
-            "title": "cordova",
-            "amountOfVideos": 72
-        },
-        {
-            "title": "electron",
-            "amountOfVideos": 105
-        },
-        {
-            "title": "swift",
-            "amountOfVideos": 95
-        },
-        {
-            "title": "objective-c",
-            "amountOfVideos": 62
-        },
-        {
-            "title": "kotlin",
-            "amountOfVideos": 115
-        },
-        {
-            "title": "java",
-            "amountOfVideos": 180
-        },
-        {
-            "title": "android",
-            "amountOfVideos": 195
-        },
-        {
-            "title": "ios",
-            "amountOfVideos": 185
-        },
-        {
-            "title": "unity",
-            "amountOfVideos": 150
-        },
-        {
-            "title": "unreal engine",
-            "amountOfVideos": 130
-        },
-        {
-            "title": "godot",
-            "amountOfVideos": 90
-        },
-        {
-            "title": "blender",
-            "amountOfVideos": 110
-        },
-        {
-            "title": "photoshop",
-            "amountOfVideos": 145
-        },
-        {
-            "title": "illustrator",
-            "amountOfVideos": 120
-        },
-        {
-            "title": "figma",
-            "amountOfVideos": 100
-        },
-        {
-            "title": "sketch",
-            "amountOfVideos": 85
-        },
-        {
-            "title": "xd",
-            "amountOfVideos": 70
-        },
-        {
-            "title": "invision",
-            "amountOfVideos": 80
-        },
-        {
-            "title": "zeplin",
-            "amountOfVideos": 50
-        },
-        {
-            "title": "principle",
-            "amountOfVideos": 40
-        },
-        {
-            "title": "framer",
-            "amountOfVideos": 60
-        },
-        {
-            "title": "flinto",
-            "amountOfVideos": 35
-        },
-        {
-            "title": "origami studio",
-            "amountOfVideos": 25
-        },
-        {
-            "title": "marvel app",
-            "amountOfVideos": 30
-        },
-        {
-            "title": "invision studio",
-            "amountOfVideos": 55
-        },
-        {
-            "title": "adobe xd",
-            "amountOfVideos": 65
-        },
-        {
-            "title": "sketch app",
-            "amountOfVideos": 75
-        },
-        {
-            "title": "figma design",
-            "amountOfVideos": 80
-        },
-        {
-            "title": "adobe illustrator",
-            "amountOfVideos": 90
-        },
-        {
-            "title": "adobe photoshop",
-            "amountOfVideos": 100
-        },
-        {
-            "title": "invision app",
-            "amountOfVideos": 110
-        },
-        {
-            "title": "adobe creative cloud",
-            "amountOfVideos": 120
-        },
-        {
-            "title": "zeplin app",
-            "amountOfVideos": 130
-        },
-        {
-            "title": "marvel design",
-            "amountOfVideos": 140
-        },
-        {
-            "title": "adobe indesign",
-            "amountOfVideos": 150
-        },
-        {
-            "title": "sketch design",
-            "amountOfVideos": 160
-        },
-        {
-            "title": "figma app",
-            "amountOfVideos": 170
-        },
-        {
-            "title": "invision design",
-            "amountOfVideos": 180
-        },
-        {
-            "title": "adobe premiere",
-            "amountOfVideos": 190
-        },
-        {
-            "title": "adobe after effects",
-            "amountOfVideos": 200
-        }
-    ]
+  "tags": [
+    {
+      "title": "react",
+      "slug": "old",
+      "amountOfVideos": 152
+    },
+    {
+      "title": "angular",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "react",
+      "slug": "old",
+      "amountOfVideos": 152
+    },
+    {
+      "title": "vue",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "flutter",
+      "slug": "old",
+      "amountOfVideos": 97
+    },
+    {
+      "title": "django",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "flask",
+      "slug": "old",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "express",
+      "slug": "old",
+      "amountOfVideos": 93
+    },
+    {
+      "title": "node.js",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "mongodb",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "postgresql",
+      "slug": "old",
+      "amountOfVideos": 77
+    },
+    {
+      "title": "mysql",
+      "slug": "old",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "graphql",
+      "slug": "old",
+      "amountOfVideos": 102
+    },
+    {
+      "title": "apollo",
+      "slug": "old",
+      "amountOfVideos": 59
+    },
+    {
+      "title": "redux",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "mobx",
+      "slug": "old",
+      "amountOfVideos": 72
+    },
+    {
+      "title": "next.js",
+      "slug": "old",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "nuxt.js",
+      "slug": "old",
+      "amountOfVideos": 96
+    },
+    {
+      "title": "svelte",
+      "slug": "old",
+      "amountOfVideos": 81
+    },
+    {
+      "title": "jest",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "mocha",
+      "slug": "old",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "chai",
+      "slug": "old",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "cypress",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "storybook",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "webpack",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "babel",
+      "slug": "old",
+      "amountOfVideos": 69
+    },
+    {
+      "title": "typescript",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "javascript",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "html",
+      "slug": "old",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "css",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "sass",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "less",
+      "slug": "old",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "bootstrap",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "tailwindcss",
+      "slug": "old",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "material-ui",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "ant design",
+      "slug": "old",
+      "amountOfVideos": 72
+    },
+    {
+      "title": "styled-components",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "emotion",
+      "slug": "old",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "jquery",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "react-native",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "ionic",
+      "slug": "old",
+      "amountOfVideos": 87
+    },
+    {
+      "title": "cordova",
+      "slug": "old",
+      "amountOfVideos": 72
+    },
+    {
+      "title": "electron",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "swift",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "objective-c",
+      "slug": "old",
+      "amountOfVideos": 62
+    },
+    {
+      "title": "kotlin",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "java",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "android",
+      "slug": "old",
+      "amountOfVideos": 195
+    },
+    {
+      "title": "ios",
+      "slug": "old",
+      "amountOfVideos": 185
+    },
+    {
+      "title": "unity",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "unreal engine",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "godot",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "blender",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "photoshop",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "illustrator",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "figma",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "sketch",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "xd",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "invision",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "zeplin",
+      "slug": "old",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "principle",
+      "slug": "old",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "framer",
+      "slug": "old",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "flinto",
+      "slug": "old",
+      "amountOfVideos": 35
+    },
+    {
+      "title": "origami studio",
+      "slug": "old",
+      "amountOfVideos": 25
+    },
+    {
+      "title": "marvel app",
+      "slug": "old",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "invision studio",
+      "slug": "old",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "adobe xd",
+      "slug": "old",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "sketch app",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "figma design",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "adobe illustrator",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "adobe photoshop",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "invision app",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "adobe creative cloud",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "zeplin app",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "marvel design",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "adobe indesign",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "sketch design",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "figma app",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "invision design",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "adobe premiere",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "adobe after effects",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "id": "fe15",
+      "title": "tesd isdas",
+      "slug": "tesd-isdas",
+      "amountOfVideo": 0
+    },
+    {
+      "id": "6a6d",
+      "title": "teste spin",
+      "slug": "teste-spin",
+      "amountOfVideo": 0
+    },
+    {
+      "id": "aabf",
+      "title": "teste mutation",
+      "slug": "teste-mutation",
+      "amountOfVideo": 0
+    },
+    {
+      "id": "9917",
+      "title": "teste query key",
+      "slug": "teste-query-key",
+      "amountOfVideo": 0
+    }
+  ]
 }
